@@ -1,0 +1,3 @@
+﻿  list.cpp
+c:\users\usuario\documents\visual studio 2017\projects\hashtableed2\hashtableed2\list.cpp(95): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  HashtableED2.vcxproj -> C:\Users\Usuario\Documents\Visual Studio 2017\Projects\HashtableED2\Debug\HashtableED2.exe
